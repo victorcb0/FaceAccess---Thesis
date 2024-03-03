@@ -1,6 +1,6 @@
 # Ciobanu_Victor_Aplicație_Practică_Informatică_Licență
 
-Adresa repository-ului: https://github.com/victorcb00/FaceAccess.git
+Adresa repository-ului: https://github.com/victorcb0/FaceAccess
 
 # FaceAccess
 
